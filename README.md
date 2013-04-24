@@ -5,4 +5,4 @@ This is a ROS node for reading Leica Totalstation measurements. The node support
 
 Run the programm using:
 
-rosrun leica_interface leica_node [options]
+rosrun leica_ros_sph leica_node [options]
